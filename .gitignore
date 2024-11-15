@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
 tensorboard/
+
+/GANs_env
+/MNIST_data
+
+generated_image_values.txt
